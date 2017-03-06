@@ -1,0 +1,7 @@
+supervisor
+hotnode
+node-dev 
+pm2 start
+https://cnodejs.org/topic/52f870d71b80994b0d9e484a
+快速启动nodejs服务
+同时还可以安装一个桌面程序Growl 或 libnotify. 用来方便观察nodejs的状态和出错信息  
