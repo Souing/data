@@ -10,6 +10,8 @@
 > 4. npm install sinopia -g 
 > 5. npm install node-inspector -g
 > 6. npm install pm2 -g 
+> 7. npm install babel-cli -g
+> 8. npm install webpack -g 
 
 
 
@@ -24,9 +26,6 @@ node-inspector --web-port=8080
 node --debug index
 node --debug-brk index
 ```
-
-
-
 
 
 

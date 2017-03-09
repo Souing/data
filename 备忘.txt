@@ -5,3 +5,29 @@ pm2 start
 https://cnodejs.org/topic/52f870d71b80994b0d9e484a
 快速启动nodejs服务
 同时还可以安装一个桌面程序Growl 或 libnotify. 用来方便观察nodejs的状态和出错信息  
+vue
+https://github.com/zhufengzhufeng/vuejs-learn
+https://github.com/zhufengzhufeng/vue1/blob/master/2.vModel.html  ok
+https://github.com/zhufengzhufeng/vue2/blob/master/server.js  ok
+https://github.com/keepfool/vue-tutorials
+http://blog.csdn.net/github_26672553/article/details/52801047
+https://segmentfault.com/a/1190000004637681
+
+
+http://www.cnblogs.com/keepfool/p/5690366.html
+http://www.cnblogs.com/keepfool/p/5619070.html
+http://www.cnblogs.com/keepfool/p/5678427.html
+http://www.cnblogs.com/keepfool/p/5625583.html
+
+
+http://es6.ruanyifeng.com/ es6
+
+
+.net
+http://www.cnblogs.com/lori/p/5336550.html  
+http://www.cnblogs.com/lori/archive/2013/02/05/2892605.html
+http://www.cnblogs.com/netfocus/archive/2011/10/10/2204949.html
+
+
+http://blog.jobbole.com/105771/  .NET开发者必备的工具箱
+http://blog.jobbole.com/105771/ .Net 高效开发之不可错过的实用工具
