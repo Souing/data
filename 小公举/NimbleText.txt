@@ -51,6 +51,14 @@ $49
 
 
 /// <summary>
-/// ·µ»ØÂë	
+/// 	
 /// </summary>
 public string $0 { get; set; }
+
+
+
+/// <summary>
+/// $1 $2 $3 $4 
+/// </summary>
+public string $0 { get; set; }
+
