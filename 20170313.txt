@@ -1,0 +1,12 @@
+楼主是不是要按F1.2.…dell的功能键和媒体键是反的，f。。只能调声音，亮度什么的，但dell自带了一个软件叫quickset，可用这个软件更改，软件位置。。c盘。。program files。。dell。。quickset里打开quickset.exe，有fn功能设置，选择功能键。。ok
+dell fn
+
+1.开机
+2.按F2，进入BIOS
+3.选择Advanced
+4.找到Function key Behavior
+5.选择Function key
+6.保存，退出，OK
+
+
+http://wenda.so.com/q/1458849462721759?src=140
